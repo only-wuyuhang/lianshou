@@ -34,6 +34,13 @@ public class ll {
         System.out.println("导购");
         System.out.println("歇够");
         System.out.println("改邪归正");
+        System.out.println("二哈");
+        System.out.println("3哈");
+        System.out.println("4哈");
+        System.out.println("5哈");
+        System.out.println("6哈");
+
+
 
 
     }
