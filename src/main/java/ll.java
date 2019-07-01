@@ -29,7 +29,12 @@ public class ll {
         int[] ints = new int[8];
 
 
-        String k = "pppppppppppppppp";
+        String k = "9999999999999";
+
+
+        System.out.println("sdfasdf");
+
+        System.out.println("架设计的精髓");
 
         List<Integer> list1 = Arrays.asList(array);
 
