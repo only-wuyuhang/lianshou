@@ -15,6 +15,7 @@ public class ll {
         list.add(8);
         list.add(9);
 
+        //集合转数组
         Integer[] array = list.toArray(new Integer[list.size()]);
 
 
@@ -25,37 +26,10 @@ public class ll {
             System.out.println(integer);
         }
 
-
-        int[] ints = new int[8];
-
-
-        String k = "9999999999999";
-
-
-        System.out.println("sdfasdf");
-
-        System.out.println("架设计的精髓");
-        String kk = "66666666999";
-
+        //数组转集合
         List<Integer> list1 = Arrays.asList(array);
 
 
-        String ll = "老子";
-
-
-        String aa = "撒打发斯蒂芬";
-
-
-        System.out.println("哈哈哈哈借金额将");
-
-
-        System.out.println("呵呵呵");
-
-
-        System.out.println("刷卡机答复客户数据阿道夫");
-
-
-        System.out.println("的就是京东方");
 
 
     }
