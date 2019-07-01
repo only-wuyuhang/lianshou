@@ -18,6 +18,7 @@ public class ll {
         Integer[] array = list.toArray(new Integer[list.size()]);
 
 
+        String atr = new String();
 
 
         for (Integer integer : array) {
@@ -32,6 +33,9 @@ public class ll {
 
 
         System.out.println("呵呵呵");
+
+
+        System.out.println("刷卡机答复客户数据阿道夫");
 
 
         System.out.println("的就是京东方");
