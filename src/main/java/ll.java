@@ -26,6 +26,8 @@ public class ll {
         }
 
 
+        String k = "孟子";
+
         List<Integer> list1 = Arrays.asList(array);
 
 
