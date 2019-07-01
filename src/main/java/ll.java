@@ -30,6 +30,13 @@ public class ll {
         List<Integer> list1 = Arrays.asList(array);
 
 
+        System.out.println("二哈");
+        System.out.println("3哈");
+        System.out.println("4哈");
+        System.out.println("5哈");
+        System.out.println("6哈");
+
+
 
 
     }
