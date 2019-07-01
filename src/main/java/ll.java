@@ -26,9 +26,15 @@ public class ll {
         }
 
 
+        int[] ints = new int[8];
+
+
         String k = "孟子";
 
         List<Integer> list1 = Arrays.asList(array);
+
+
+        String ll = "老子";
 
 
         String aa = "撒打发斯蒂芬";
