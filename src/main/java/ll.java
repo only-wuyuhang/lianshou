@@ -30,6 +30,10 @@ public class ll {
         List<Integer> list1 = Arrays.asList(array);
 
 
+        System.out.println("打钩");
+        System.out.println("导购");
+        System.out.println("歇够");
+        System.out.println("改邪归正");
 
 
     }
