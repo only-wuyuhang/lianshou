@@ -35,9 +35,7 @@ public class ll {
         System.out.println("sdfasdf");
 
         System.out.println("架设计的精髓");
-        String kk
-
-                = "66666666999";
+        String kk = "66666666999";
 
         List<Integer> list1 = Arrays.asList(array);
 
