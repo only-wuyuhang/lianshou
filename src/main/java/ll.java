@@ -29,7 +29,7 @@ public class ll {
         int[] ints = new int[8];
 
 
-        String k = "pppppppppppppppp";
+        String k = "66666666999";
 
         List<Integer> list1 = Arrays.asList(array);
 
