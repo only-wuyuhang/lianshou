@@ -1,5 +1,3 @@
-
-
 import java.util.ArrayList;
 import java.util.Collections;
 
@@ -17,5 +15,6 @@ public class aaa {
             System.out.println(string);
         }
 
+        System.out.println("aaa");
     }
 }
